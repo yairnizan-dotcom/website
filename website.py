@@ -1,5 +1,5 @@
 import streamlit as st
-st.write("my website")
+st.header("my website")
 
 
      
